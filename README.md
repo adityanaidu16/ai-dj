@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mov
+[Watch Demo Video](./assets/demo.mov)
 
 ## Problem
 
