@@ -1,5 +1,9 @@
 # AI DJ - Intelligent Music Discovery Assistant
 
+## Demo
+
+https://github.com/user-attachments/assets/demo.mov
+
 ## Problem
 
 Spotify's recommendation endpoints have been deprecated for third-party developers, and Spotify's own DJ feature lacks interactive capabilities. Users can't have natural conversations about music preferences or get contextually aware recommendations based on specific songs they like.
