@@ -2,7 +2,9 @@
 
 ## Demo
 
-[Watch Demo Video](./assets/demo.mov)
+
+https://github.com/user-attachments/assets/371429f4-2e36-4bdc-b1df-fcf467042696
+
 
 ## Problem
 
